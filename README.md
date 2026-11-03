@@ -333,3 +333,7 @@ Add `adb` to your `PATH` before running the PowerShell scripts. If your executio
 - [Home Assistant community: Tuya/Smatek T6E and S6E panels](https://community.home-assistant.io/t/tuya-smatek-t6e-and-s6e-4-inch-control-panels-for-ccs-central-control-system-android-based-in-wall-4-inch-smart-display-with-touch-screen-now-sold-under-many-different-brands/473366)
 
 Not affiliated with Tuya, Smatek, Rockchip, Home Assistant or Cromite.
+
+## License
+
+[MIT](LICENSE). This covers the guide, scripts and images in this repository, not the third-party apps it refers to.
