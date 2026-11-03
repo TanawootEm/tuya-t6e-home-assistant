@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340" font-family="Arial, Helvetica, sans-serif">
+  <title>Companion and WebView results</title>
+  <rect width="860" height="340" fill="#ffffff"/>
+  <text x="30" y="40" font-size="24" font-weight="700" fill="#1f2937">Step 8: Results by version on this unit</text>
+  <rect x="30" y="70" width="280" height="55" fill="#f3f4f6" stroke="#9ca3af"/>
+  <rect x="310" y="70" width="260" height="55" fill="#f3f4f6" stroke="#9ca3af"/>
+  <rect x="570" y="70" width="260" height="55" fill="#f3f4f6" stroke="#9ca3af"/>
+  <text x="170" y="103" font-size="15" font-weight="700" fill="#111827" text-anchor="middle">Companion version</text>
+  <text x="440" y="103" font-size="15" font-weight="700" fill="#111827" text-anchor="middle">Cromite WebView 132</text>
+  <text x="700" y="103" font-size="15" font-weight="700" fill="#111827" text-anchor="middle">Cromite WebView 138</text>
+  <rect x="30" y="125" width="280" height="80" fill="#ffffff" stroke="#9ca3af"/>
+  <text x="170" y="172" font-size="15" fill="#111827" text-anchor="middle">2026.11.1-minimal</text>
+  <rect x="310" y="125" width="260" height="80" fill="#fee2e2" stroke="#9ca3af"/>
+  <text x="440" y="160" font-size="15" font-weight="700" fill="#7f1d1d" text-anchor="middle">Crash</text>
+  <text x="440" y="183" font-size="13" fill="#7f1d1d" text-anchor="middle">Native SIGSEGV</text>
+  <rect x="570" y="125" width="260" height="80" fill="#fee2e2" stroke="#9ca3af"/>
+  <text x="700" y="160" font-size="15" font-weight="700" fill="#7f1d1d" text-anchor="middle">Crash</text>
+  <text x="700" y="183" font-size="13" fill="#7f1d1d" text-anchor="middle">Native SIGSEGV</text>
+  <rect x="30" y="205" width="280" height="80" fill="#ffffff" stroke="#9ca3af"/>
+  <text x="170" y="252" font-size="15" fill="#111827" text-anchor="middle">2025.11.4-minimal</text>
+  <rect x="310" y="205" width="260" height="80" fill="#dcfce7" stroke="#9ca3af"/>
+  <text x="440" y="240" font-size="15" font-weight="700" fill="#14532d" text-anchor="middle">Works, no crashes</text>
+  <text x="440" y="263" font-size="13" fill="#14532d" text-anchor="middle">8 relaunches, reboot, 2 min soak</text>
+  <rect x="570" y="205" width="260" height="80" fill="#f3f4f6" stroke="#9ca3af"/>
+  <text x="700" y="250" font-size="15" fill="#4b5563" text-anchor="middle">Not tested</text>
+  <text x="430" y="318" font-size="14" fill="#374151" text-anchor="middle">Observed on one unit. The cause of the crash isn't established.</text>
+</svg>
